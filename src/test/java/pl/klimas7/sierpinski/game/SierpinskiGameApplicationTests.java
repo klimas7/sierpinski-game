@@ -1,10 +1,10 @@
-package pl.klimas7.sieripinski.game;
+package pl.klimas7.sierpinski.game;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SieripinskiGameApplicationTests {
+class SierpinskiGameApplicationTests {
 
 	@Test
 	void contextLoads() {
